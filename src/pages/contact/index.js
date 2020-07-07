@@ -86,6 +86,7 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Message

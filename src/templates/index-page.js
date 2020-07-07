@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
-
+import { css, cx } from "emotion";
 import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
@@ -34,6 +34,7 @@ export const IndexPageTemplate = ({
           justifyContent: "space-around",
           alignItems: "left",
           flexDirection: "column",
+          textShadow: "0px 0px 25px #000",
         }}
       >
         <h1

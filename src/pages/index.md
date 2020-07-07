@@ -12,7 +12,7 @@ mainpitch:
 description: "A general overview of the subjects that are targeted for archival:"
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/arkansasicon.png
       text: Arkansas holds a place of great importance to these families. Many of the
         families have been part of this state for hundreds of years, leaving
         their mark in places from the Ozark mountains to the southern

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kinfolks
-image: /img/claud-richmond-cq09difwcb0-unsplash.jpg
+image: /img/mike-erskine-o4trcutuu0w-unsplash.jpg
 heading: Areas of Interest
 subheading: Those kindred and of close relationship.
 mainpitch:

@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kinfolks
-image: /img/claud-richmond-cq09difwcb0-unsplash.jpg
+image: /img/mike-erskine-o4trcutuu0w-unsplash.jpg
 heading: Areas of Interest
 subheading: Those kindred and of close relationship.
 mainpitch:
@@ -12,23 +12,23 @@ mainpitch:
 description: "A general overview of the subjects that are targeted for archival:"
 intro:
   blurbs:
-    - image: /img/arkansasicon.png
+    - image: /img/places-icon.png
       text: Arkansas holds a place of great importance to these families. Many of the
         families have been part of this state for hundreds of years, leaving
         their mark in places from the Ozark mountains to the southern
         Mississippi Delta.
-    - image: /img/coffee-gear.png
+    - image: /img/people-icon.png
       text: >
         Many the families showcased here include: Cox, Compton, Hildebrand,
         Morgan, Brown, Roberts, Scoggins, Ivy, and several others. Please be
         sure to use the contact form if there are any kin to these families you
         would like for me to add to this list.
-    - image: /img/tutorials.png
+    - image: /img/folklore-icon.png
       text: >
         "Folklore is the study of certain aspects of the culture of a group...
         proverbs, riddles, jokes, folk songs, superstitions, traditional houses,
         games and so on." - 'Country Folks', Richard Tallman
-    - image: /img/meeting-space.png
+    - image: /img/extras-icon.png
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting

@@ -1,11 +1,33 @@
 ---
 templateKey: blog-post
-title: Test Family Member
+title: Full Name
 date: 2020-07-18T01:40:41.012Z
-description: This is a placeholder for a new family member entry
-featuredpost: true
-featuredimage: /img/person-placeholder.jpg
+description: "*This is a template for adding entrys. Please follow the format
+  below for general information then feel free to add any other relevant
+  information afterwards.*"
+featuredpost: false
+featuredimage: /img/person-placeholder.png
 tags:
   - family
 ---
-Hey there. This is just some text to represent info about a particular family memeber.
+Born: Jan 1, 9999 | Died: Jan 1, 9999
+
+Birthplace: [Prescott, AR](https://en.wikipedia.org/wiki/Prescott,_Arkansas)
+
+Burial Location: [Prescott, AR](https://en.wikipedia.org/wiki/Prescott,_Arkansas)
+
+Parents: Father Name, Mother Name
+
+Siblings: Sibling 1 Name, Sibling 2 Name (Step), Sibling 3 Name (Half)
+
+Spouse: Spouse Name
+
+Marriage Date: Jan 1, 9999
+
+Wedding Location: [Prescott, AR](https://en.wikipedia.org/wiki/Prescott,_Arkansas)
+
+Children: Child 1 Name, Child 2 Name (Step)
+
+Education: None
+
+Profession: Farmer

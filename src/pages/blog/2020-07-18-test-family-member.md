@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Full Name
+title: Full Name [Template Post]
 date: 2020-07-18T01:40:41.012Z
 description: "*This is a template for adding entrys. Please follow the format
   below for general information then feel free to add any other relevant

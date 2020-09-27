@@ -6,13 +6,13 @@ description: " "
 featuredpost: false
 featuredimage: /img/person-placeholder.png
 tags:
-  - family
+  - Brown
 ---
 Born: April 4, 1901 | Died: June 7, 1975
 
-Birthplace: [Bruno, AR](https://en.wikipedia.org/wiki/Prescott,_Arkansas)
+Birthplace: Bruno, AR
 
-Burial Location: [Harrison, AR](https://en.wikipedia.org/wiki/Prescott,_Arkansas)
+Burial Location: Harrison, AR
 
 Parents: Sterlin Brown, Wilda Odgen
 

@@ -4,7 +4,7 @@ title: Hurley Brown
 date: 2020-09-27T20:12:56.577Z
 description: " "
 featuredpost: false
-featuredimage: /img/person-placeholder.png
+featuredimage: /img/document_20201003_0011.jpg
 tags:
   - Brown
 ---
